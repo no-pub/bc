@@ -8,12 +8,12 @@ body {
 }
 
 div {
-   padding-top: 40%;
+   padding-top: 80px;
 
 
 iframe {
 
-   width: 90%;
+   width: 100%;
    margin: 0 auto;
    display: block;
    text-align: center;
