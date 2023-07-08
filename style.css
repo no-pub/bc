@@ -6,12 +6,10 @@ body {
    background-color: #333333;
 }
 
-div {
-   width: 50%;
-   margin: 0 auto;
-}
-
 iframe {
+
+   width: 90%;
+   margin: 0 auto;
    display: block;
 }
 
