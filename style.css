@@ -11,6 +11,13 @@ div {
    padding-right: 5px;
 }
 
+iframe {
+   display: block;
+   width: 100%;
+   text-align: center;
+   padding-top: 50%;
+}
+
 a {
    text-decoration: none;
    color: #000000;
