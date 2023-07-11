@@ -47,6 +47,10 @@ div {
   color: #ffffff;
 }
 
+.none {
+  display: hidden;
+}
+
 .input {
   text-align: center; 
   height: 50px;
