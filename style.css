@@ -6,8 +6,6 @@ body, {
   font-weight: 800;
   font-style: normal;
   color: #ffffff;
-  padding-bottom: 15%
-  margin-top: 0px;
 }
 
 a {
@@ -28,7 +26,7 @@ div {
   text-align: center;
   width: 100;
   position: relative;
-  padding-top: 50px;
+  padding-top: 100px;
   padding-bottom: 100px;
   background-color: #222222;
   font-size: 1.5rem;
@@ -62,5 +60,5 @@ div {
 }
 
 .dl {
-   padding-top: 50%;
+   margin-top: 50%;
 }
