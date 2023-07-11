@@ -6,7 +6,25 @@
 <title>what-is-this/music/free</title>
 <body bgcolor="#222222">
 <div class="box"> 
-qav8-wh4b
+<input type="text" value="qav8-wh4b" id="in">
+<button onclick="fn()">Copy text</button>
+
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("in");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("💾" + copyText.value);
+} 
+
 </div>
 </center>
 </div>
