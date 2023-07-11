@@ -23,7 +23,7 @@ div {
 }
 
 .container {
-  bottom: 50%;
+  top: 150px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
