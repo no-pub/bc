@@ -23,11 +23,10 @@ div {
 }
 
 .container {
-  left:0;
-  right:0;
+  bottom: 50%;
   margin-left: auto;
   margin-right: auto;
-  position: absolute;
+  position: relative;
   width: 85%;
   background-color: #222222;
   font-size: 1.5rem;
