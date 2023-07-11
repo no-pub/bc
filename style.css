@@ -47,7 +47,7 @@ div {
   color: #ffffff;
 }
 
-input[value="none"]{
+input[id="in"]{
 display:none;
 }
 
