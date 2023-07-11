@@ -23,6 +23,7 @@ div {
 }
 
 .container {
+  padding-top: 50%;
   text-align: center;
   background-color: #222222;
   font-size: 1.5rem;
