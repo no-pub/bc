@@ -48,7 +48,7 @@ div {
 }
 
 .none {
-  display: hidden;
+  display: none;
 }
 
 .input {
