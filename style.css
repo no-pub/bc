@@ -47,6 +47,11 @@ div {
   color: #ffffff;
 }
 
+.input {
+  height: 50px;
+  width: 150px;
+}
+
 .responsive-iframe {
   
 }
