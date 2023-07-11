@@ -47,6 +47,7 @@ div {
 
 .ticket {
   text-align: center;
+  margin-top: 100px;
   padding-bottom: 50%;
   background-color: #222222;
   font-size: 1.5rem;
