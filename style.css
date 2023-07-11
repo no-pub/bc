@@ -57,6 +57,7 @@ div {
   font-weight: 800; 
   font-style: normal; 
   color: #ffffff;
+  border-style: none;
 }
 
 .responsive-iframe {
