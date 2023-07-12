@@ -26,9 +26,8 @@ div {
 .container1 {
   width: 100%;
   height: 100%;
-  margin-top:  25% auto;
+  margin-top:  25%;
   text-align: center;
-  background-color: #222222;
 }  
 
 .container2 {
