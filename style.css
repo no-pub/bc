@@ -29,7 +29,12 @@ div {
   text-align: center;
 }  
 
-.box {
+.box1 {
+padding-bottom: 25%;
+}
+
+.box2 {
+padding-top: 25%;
 padding-bottom: 25%;
 }
 
