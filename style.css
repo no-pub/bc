@@ -30,12 +30,11 @@ div {
 }  
 
 .box1 {
-padding-bottom: 25%;
+padding: 25px 0;
 }
 
 .box2 {
-margin-top: 25%;
-padding-bottom: 25%;
+padding: 75px 0;
 }
 
 .input {
