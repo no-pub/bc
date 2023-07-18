@@ -41,6 +41,7 @@ div {
 
 .line {
   display: inline;
+  overflow: hidden;
 }
 
 .nav {
