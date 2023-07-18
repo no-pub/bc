@@ -40,7 +40,7 @@ div {
 }
 
 .line {
-  display: inline-block;
+  display: inline;
 }
 
 .nav {
@@ -50,7 +50,6 @@ div {
   background-color: #333333;
   border: 1px solid;
   border-color: #4f4f4f;
-  display: inline-block;
 }
 
 .input {
