@@ -39,6 +39,10 @@ div {
   margin-top: 25%;
 }
 
+.line {
+  display: inline-block;
+}
+
 .nav {
   font-size: 3.5rem;
   padding-bottom: 10px;
