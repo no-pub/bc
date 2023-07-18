@@ -45,7 +45,7 @@ div {
 
 .nav {
   display: inline;
-  font-size: 3rem;
+  font-size: 3.5rem;
   padding-right: 0px;
   display: inline-block;
   padding-bottom: 10px;
@@ -53,7 +53,6 @@ div {
   background-color: #333333;
   border: 1px solid;
   border-color: #4f4f4f;
-  height: 24px;
 }
 
 .input {
